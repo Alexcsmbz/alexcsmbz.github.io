@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.05b48f02.css",
+    "main.js": "/static/js/main.efe1ff3c.js",
+    "static/js/107.d2001154.chunk.js": "/static/js/107.d2001154.chunk.js",
+    "static/media/effra.ttf": "/static/media/effra.8d1273e51c653e158d1c.ttf",
+    "static/media/xtn.svg": "/static/media/xtn.5dd0e18bb8fe5aad5330177d2ac83f57.svg",
+    "static/media/keeper.svg": "/static/media/keeper.26b366af4e31933e4f45697c32d6c937.svg",
+    "static/media/logo.svg": "/static/media/logo.74fdd6a0be3f80026c7632d3b0932aa1.svg",
+    "static/media/usdt.svg": "/static/media/usdt.7569c350c35b4524d1fac5a9495fd469.svg",
+    "static/media/vires.svg": "/static/media/vires.709ad7a3a377478b4f4afb86924a88da.svg",
+    "index.html": "/index.html",
+    "static/media/wallet.svg": "/static/media/wallet.41ea8f17476681f09203c4bcad24de3a.svg",
+    "static/media/wx.svg": "/static/media/wx.dc68be146d33214f50070a030c876a25.svg",
+    "static/media/plus.svg": "/static/media/plus.b1f99384658b42a221aa2342fcb58571.svg",
+    "static/media/waves.svg": "/static/media/waves.164e43c1c809c8391aa78cdbb4b69a3e.svg",
+    "static/media/minus.svg": "/static/media/minus.445e39ab8ed1cd0496037497eb85bf96.svg",
+    "main.css.map": "/main.css.map",
+    "main.05b48f02.css.map": "/static/css/main.05b48f02.css.map",
+    "main.efe1ff3c.js.map": "/static/js/main.efe1ff3c.js.map",
+    "107.d2001154.chunk.js.map": "/static/js/107.d2001154.chunk.js.map"
+  },
+  "entrypoints": [
+    "main.css",
+    "static/css/main.05b48f02.css",
+    "static/js/main.efe1ff3c.js"
+  ]
+}
